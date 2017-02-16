@@ -1,0 +1,5 @@
+---
+applications:
+- name: QuoteService_ShuWang
+  path: ./build/libs/Quote-0.0.1-SNAPSHOT.jar
+  buildpack: https://github.com/cloudfoundry/java-buildpack.git
