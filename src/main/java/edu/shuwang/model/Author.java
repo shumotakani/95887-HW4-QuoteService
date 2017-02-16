@@ -1,4 +1,4 @@
-package edu.shuwang.model;
+ package edu.shuwang.model;
 
 public class Author {
     private Long id;
